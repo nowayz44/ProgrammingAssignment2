@@ -1,5 +1,5 @@
-## Caching the Inverse of a Matrix
-### Using the caching of the Inverse of a Matrix will enable to gain time for the user
+# Caching the Inverse of a Matrix
+# Using the caching of the Inverse of a Matrix will enable to gain time for the user
 
 
 # The first function makeCacheMatrix creates a special "vector", which is really a list containing a function to
